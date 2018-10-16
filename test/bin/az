@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "Fake az"
+echo "AZ_OUTPUT_FORMAT: $AZ_OUTPUT_FORMAT"
