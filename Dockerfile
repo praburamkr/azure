@@ -7,7 +7,7 @@ LABEL homepage="http://github.com/actions/azure"
 LABEL maintainer="GitHub Actions <support+actions@github.com>"
 LABEL com.github.actions.name="GitHub Action for Azure"
 LABEL com.github.actions.description="Wraps the az CLI to enable common Azure commands."
-LABEL com.github.actions.icon="triange"
+LABEL com.github.actions.icon="triangle"
 LABEL com.github.actions.color="blue"
 COPY LICENSE README.md THIRD_PARTY_NOTICE.md /
 
