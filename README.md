@@ -4,7 +4,7 @@ This Action for [Azure](https://azure.microsoft.com/en-us/) enables arbitrary ac
 
 ## Usage
 
-The workflow below will deploy a custom Docker image to Azure [Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/containers/app-service-linux-intro), and assumes the pre-existence of:
+The workflow below mimics [this Web App for Containers tutorial](https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-custom-docker-image), deploying an _existing_ Docker image to Azure [Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/containers/app-service-linux-intro). In addition to an existing Docker image, it assumes the pre-existence of:
 
 1. An Azure service principal ([more info](https://docs.microsoft.com/en-us/cli/azure/create-an-azure-service-principal-azure-cli?view=azure-cli-latest))
 1. An Azure resource group, created with `az group create --name $RESOURCE_GROUP --location $LOCATION`
