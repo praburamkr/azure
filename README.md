@@ -1,3 +1,8 @@
+<h1 align="center">IMPORTANT</h1>
+
+This repo has been archived in favor of the [**GitHub Actions for Microsoft Azure**](https://github.com/Azure/github-actions).
+
+___
 # GitHub Actions for Azure
 
 This Action for [Azure](https://azure.microsoft.com/en-us/) enables arbitrary actions for interacting with Azure services via [the `az` command-line client](https://docs.microsoft.com/en-us/cli/azure/).
