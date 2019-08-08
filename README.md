@@ -1,6 +1,6 @@
 <h1 align="center">IMPORTANT</h1>
 
-This repo has been archived in favor of the [**GitHub Actions for Microsoft Azure**](https://github.com/Azure/github-actions).
+This repo has been archived in favor of the [**GitHub Actions for Microsoft Azure**](https://github.com/Azure/actions).
 
 ___
 # GitHub Actions for Azure
